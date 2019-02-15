@@ -1,3 +1,5 @@
+version:hadoop-2.9.2
+
 For the latest information about Hadoop, please visit our website at:
 
    http://hadoop.apache.org/core/
